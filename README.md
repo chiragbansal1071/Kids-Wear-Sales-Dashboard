@@ -38,6 +38,10 @@ The dashboard helps identify top-performing and underperforming SKUs and Styles 
 - Pivot Tables
 - Power Query
 
+## Dashboard Preview
+
+![Kids Wear Dashboard](Images/screenshot.png)
+
 ## Business Impact
 
 - Automated KPI reporting
