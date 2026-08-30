@@ -40,7 +40,7 @@ The dashboard helps identify top-performing and underperforming SKUs and Styles 
 
 ## Dashboard Preview
 
-![Kids Wear Dashboard](Images/screenshot.png)
+![Kids Wear Sales Dashboard – Excel & Power Pivot](Images/Screenshot.png)
 
 ## Business Impact
 
