@@ -1,4 +1,4 @@
-# Kids Wear Sales Performance Dashboard
+# Kids Wear Sales Dashboard – Excel & Power Pivot
 
 ## Project Overview
 
